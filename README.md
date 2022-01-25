@@ -2,7 +2,7 @@
 
 This buffer solution is still heavliy in beta, changes to the design will come out as issues and areas of improvement are identified.
 
-![Filament Buffer Assembly](Images/Filament Buffer Assembly.PNG)
+![Filament Buffer Assembly](Images/Filament_Buffer_Assembly.PNG)
 
 ## BOM
 

@@ -4,8 +4,6 @@ This buffer solution is still heavliy in beta, changes to the design will come o
 
 ![Filament Buffer Assembly](Images/Filament Buffer Assembly.PNG)
 
-![Filament Buffer Assembly](https://user-images.githubusercontent.com/61592279/150192109-9bfeb8ae-1d6c-4b47-aac1-e851647b28fc.PNG)
-
 ## BOM
 
 - 4L Air Tight Container
@@ -28,7 +26,7 @@ Spool hanger, filament passthru and buffer are mandatory, desiccant and hydromet
 
 Two variations; one using heat set inserts and the other forms threads in the plastic.
 
-![Filament Passthru Assembly](https://user-images.githubusercontent.com/61592279/150192079-83a81f5c-09dc-4e0f-95a2-6e69526acee2.PNG)
+![Filament Passthru Assembly](Images/Filament_Passthru_Assembly.PNG)
 
 Assembly
 
@@ -45,9 +43,8 @@ At this time there is no plan to modify this assembly
 
 ## Spool Hanger
 
-![Spool Holder Assembly](https://user-images.githubusercontent.com/61592279/150192048-598b82e3-06f0-409a-b264-b574165de27e.PNG)
-![Hanger Assembly](https://user-images.githubusercontent.com/61592279/150192052-f7383d05-ea53-4932-98b5-5a1a48e4650c.PNG)
-
+![Spool Holder Assembly](Images/Spool_Holder_Assembly.PNG)
+![Hanger Assembly](Images/Hanger_Assembly.PNG)
 
 Assembly
 
@@ -65,8 +62,8 @@ Mounting
 
 ## Filament Buffer
 
-![Buffer Assembly Exploded 2](https://user-images.githubusercontent.com/61592279/150192009-11970ebd-4a93-455c-b387-920c4b17b81c.PNG)
-![Buffer Assembly Exploded 1](https://user-images.githubusercontent.com/61592279/150192016-06559173-0c1d-4a5c-a345-5158e370b1e1.PNG)
+![Buffer Assembly Exploded 2](Images/Buffer_Assembly_Exploded_2.PNG)
+![Buffer Assembly Exploded 1](Images/Buffer_Assembly_Exploded_1.PNG)
 
 Assembly
 
@@ -88,7 +85,7 @@ Clearances of current design, Possibility for future redesign to improve usabili
 
 A Simple hydrometer bracket that mounts using a single M3x8 SHCS, installed against the bottom interior surface to prevent it from rotating.
 
-![Hydrometer](https://user-images.githubusercontent.com/61592279/150191963-55843f8f-64f2-4df1-a057-38fe8933baa3.PNG)
+![Hydrometer](Images/Hydrometer.PNG)
 
 ### Future Design Considerations
 
@@ -98,7 +95,7 @@ At this time there is no plan to modify this assembly
 
 Mounts in a similar fashion to the hydrometer bracket
 
-![Dessicant Assembly](https://user-images.githubusercontent.com/61592279/150191822-cbe6aeeb-a39f-4c42-822c-bf2dd46c430f.PNG)
+![Dessicant Assembly](Images/Dessicant_Assembly.PNG)
 
 ### Future Design Considerations
 

@@ -1,4 +1,4 @@
-# 4L Buffer Spool - BETA
+# Filament Buffer Drybox - BETA
 
 This buffer solution is still heavliy in beta, changes to the design will come out as issues and areas of improvement are identified.
 

@@ -7,7 +7,8 @@ This buffer solution is still heavliy in beta, changes to the design will come o
 ## BOM
 
 - 4L Air Tight Container
-    - The one used for the initial design is [here](https://www.amazon.com/Containers-PRAKI-Airtight-Leak-proof-Canister/dp/B08TWH2QHV/ref=pd_rhf_ee_s_rp_c_2_4/142-3630995-6911105?pd_rd_w=NsqEw&pf_rd_p=5504b049-e102-4aa1-bed5-5cbcc3702210&pf_rd_r=V2H8ZEMQV48BSCNPQBP8&pd_rd_r=95199d46-c915-4553-b019-1fa26afedc4e&pd_rd_wg=uHuj3&pd_rd_i=B08TWH2QHV&psc=1). HOWEVER it was found that the KVP spools had clearance issues. With the help of discord members I am currently looking into alternative options.
+    - The one used for the initial design is [4L Container](https://www.amazon.com/Containers-PRAKI-Airtight-Leak-proof-Canister/dp/B08TWH2QHV/ref=pd_rhf_ee_s_rp_c_2_4/142-3630995-6911105?pd_rd_w=NsqEw&pf_rd_p=5504b049-e102-4aa1-bed5-5cbcc3702210&pf_rd_r=V2H8ZEMQV48BSCNPQBP8&pd_rd_r=95199d46-c915-4553-b019-1fa26afedc4e&pd_rd_wg=uHuj3&pd_rd_i=B08TWH2QHV&psc=1). HOWEVER it was found that the KVP spools had clearance issues. With the help of discord members I am currently looking into alternative options.
+	- Containers [6.3L Container](https://www.amazon.com/dp/B08VHMS3B5?psc=1&ref=ppx_yo2_dt_b_product_details) will fit KVP spools but are significantly larger
 - 6x (or 3x) M3x.05 heat set inserts
 - 8x M3x8 BHCS
 - 3x M3 hex nuts

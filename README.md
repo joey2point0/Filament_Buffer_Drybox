@@ -42,10 +42,6 @@ Assembly
 5.  Remove the Filliment\_Passthru\_Interior.STL and drill (hole size)
 6.  Assemble
 
-### Future Design Considerations
-
-At this time there is no plan to modify this assembly
-
 ## Spool Hanger
 
 ![Spool Holder Assembly](Images/Spool_Holder_Assembly.PNG)

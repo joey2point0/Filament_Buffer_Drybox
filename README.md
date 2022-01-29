@@ -23,8 +23,8 @@ This buffer solution is still heavliy in beta, changes to the design will come o
 Spool hanger, filament passthru and buffer are mandatory, desiccant and hydrometer are optional
 
 ---
-## Important
-## The mounting locations described below are what I used, due to wide variety of container and spool sizes, your milage may vary. Confirm fitment before drilling holes.*
+### Important
+### The mounting locations described below are what I used, due to wide variety of container and spool sizes, your milage may vary. Confirm fitment before drilling holes.
 ---
 ## Filament Passthru
 

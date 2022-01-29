@@ -22,6 +22,9 @@ This buffer solution is still heavliy in beta, changes to the design will come o
 
 Spool hanger, filament passthru and buffer are mandatory, desiccant and hydrometer are optional
 
+**Important**
+*The mounting locations described below are what I used, due to wide variety of container and spool sizes, your milage may vary. Confirm fitment before drilling holes.*
+
 ## Filament Passthru
 
 Two variations; one using heat set inserts and the other forms threads in the plastic.
@@ -30,7 +33,7 @@ Two variations; one using heat set inserts and the other forms threads in the pl
 
 Assembly
 
-1.  Measure approximately XXXXmm from the bottom of the container and mark the middle.
+1.  Measure approximately 182mm from the bottom of the container and mark the middle.
 2.  Drill a 1/2" hole
 3.  Insert the Filliment\_Passthru\_Interior.STL.
 4.  Mark the three fastener holes
@@ -52,13 +55,15 @@ Assembly
 
 Mounting
 
-1.  Measure approximately XXXXmm from the bottom of the container and mark the middle.
+1.  Measure approximately 119mm from the bottom of the container and mark the middle.
 2.  Drill a 1/8" hole and hang the \[a\]\_Spool\_Arm_Exterior.STL using the bottom screw hole.
 3.  Orient the \[a\]\_Spool\_Arm_Exterior.STL so that the edges are relatively square to the bottom of the container
 4.  Mark the two remaining holes and drill.
 5.  Mount the Assembly, sandwiching the container in between \[a\]\_Spool\_Arm\_Exterior.STL and \[a\]\_Spool\_Arm\_Catch.STL
 
 ### Future Design Considerations
+
+Catch clearance and longevity of current design
 
 ## Filament Buffer
 
@@ -73,13 +78,13 @@ Assembly
 
 mounting
 
-1.  Measure approximately XXXXmm from the bottom of the container and mark the middle.
+1.  Measure approximately 222mm from the bottom of the container and mark the middle.
 2.  Drill a 1/8" hole and hang the Buffer_Case.STL by the top screw and mark the two remaining holes, then drill
 3.  Before mounting with the final two screws install the Nylon lock nut in the recess in the buffer cover.
 
 ### Future Design Considerations
 
-Clearances of current design, Possibility for future redesign to improve usability 
+Clearances of current design, possibility for future redesign to improve usability 
 
 ## Hydrometer (Optional)
 
@@ -87,9 +92,6 @@ A Simple hydrometer bracket that mounts using a single M3x8 SHCS, installed agai
 
 ![Hydrometer](Images/Hydrometer.PNG)
 
-### Future Design Considerations
-
-At this time there is no plan to modify this assembly
 
 ## Desiccant Pack (Optional)
 
@@ -97,9 +99,6 @@ Mounts in a similar fashion to the hydrometer bracket
 
 ![Dessicant Assembly](Images/Dessicant_Assembly.PNG)
 
-### Future Design Considerations
-
-At this time there is no plan to modify this assembly
 
 # Tag Plate
 

@@ -18,6 +18,8 @@ This buffer solution is still heavliy in beta, changes to the design will come o
 - Optional
     - Hydrometer
     - Silica
+    - 2x 6x3 magenets
+    - VHB tape
 
 # Assembly
 
@@ -98,6 +100,8 @@ Mounts in a similar fashion to the hydrometer bracket
 ![Dessicant Assembly](Images/Dessicant_Assembly.PNG)
 
 
-# Tag Plate
+# Tag Plate (Optional)
 
-Yet to be designed, will be a magnetic tag plate displaying channel number.
+Press in two 6x3 magnets, mounts to container using VHB tape.
+
+![Tag Plate Assembly](Images/Tag_Plate_Assembly.PNG)
